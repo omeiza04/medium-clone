@@ -1,0 +1,16 @@
+.caption-position{
+    position: absolute;
+    top: 9rem;
+}
+
+.img-inherit{
+    height: inherit;
+}
+
+.discover-badge{
+    height: 30px;
+    font-size: 13px;
+    margin: 5px;
+    border: #e4dada 1px solid;
+    font-weight: normal;
+}
