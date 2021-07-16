@@ -1,0 +1,92 @@
+.twitter-logo{
+    float: right;
+    font-weight: normal;
+}
+
+.details{
+    text-align: left;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-weight: normal;
+}
+
+.dot{
+    font-family: fantasy;
+    font-weight: bold;
+    
+}
+
+.card-css{
+    background-color: black;
+    color: white;
+}
+
+.footer{
+    background-color: black;
+}
+
+.card-text{
+    font-size: smaller;
+    color: rgb(180, 175, 175);
+    
+}
+
+.link-right{
+    float: right;
+}
+
+.link-tab{
+    position: relative;
+    bottom: 30px;
+    color: white;
+    font-weight: normal;
+}
+
+.link-tab:hover{
+    border-top: 3px solid white;
+    color: white;
+}
+
+.small-box{
+    border-top: 4px solid rgb(104, 104, 194);
+    border-left: transparent;
+    border-right: transparent;
+    border-bottom: transparent;
+    background-color: rgb(252, 248, 248);
+    padding-top: 40px;
+    padding-bottom: 40px;
+}
+
+#email{
+    border-bottom: 1px solid black;
+    border-left: transparent;
+    border-right: transparent;
+    border-top: transparent;
+    width: 400px;
+    background-color: rgb(252, 248, 248);
+}
+
+#email:focus{
+    outline: none;
+}
+
+.button-click{
+    border: transparent;
+    border-radius: 20px;
+    background-color: rgb(117, 117, 167);
+    padding-left: 15px;
+    padding-right: 15px;
+    height: 39px;
+    color: white;
+}
+
+.small-note{
+    font-size: 12px;
+}
+
+.privacy{
+    color: black;
+}
+
+.privacy:hover{
+    color: black;
+}

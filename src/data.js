@@ -96,4 +96,22 @@ const latestBlogData = [
 
 const topicsData = ["Self","Relationship", "Data Science", "Programming", "Productivity", "Javascript", "Machine Learning", "politics", "Health"]
 
-export {blogData, latestBlogData, topicsData}
+const footerText = [
+    {
+        title:"Learn more.",
+        short_desc:"Medium is an open platform where 170 million readers come to find insightful and dynamic thinking. Here, expert and undiscovered voices alike dive into the heart of any topic and bring new ideas to the surface.",
+        link:""
+    },
+    {
+        title:"Make Medium yours",
+        short_desc:"Follow the writers, publications, and topics that matter to you, and you’ll see them on your homepage and in your inbox.",
+        link:""
+    },
+    {
+        title:"Write a story on Medium",
+        short_desc:"If you have a story to tell, knowledge to share, or a perspective to offer — welcome home. It’s easy and free to post your thinking on any topic.",
+        link:""
+    },
+]
+
+export {blogData, latestBlogData, topicsData, footerText}
